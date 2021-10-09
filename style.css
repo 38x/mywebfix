@@ -1,0 +1,37 @@
+p{
+background-color: pink;
+color: blue;
+}
+ul{
+background-color: yellow;
+}
+ol{
+background-color: orange;
+}
+h1{
+font-family : Ariel;
+font-size : 30px;
+color : blue;
+text-align : center;
+}
+h4{
+font-family : Georgia;
+font-size : 20px;
+color : red;
+text-align : left;
+}
+p{
+font-family : Arial;
+font-size : 16px;
+color : green;
+text-align : center;
+}
+ul{
+font-family : Verdana;
+font-size : 10px;
+color : blue;
+text-align : right;
+}
+body{
+background-image: url("images/purplesquare.jpeg");
+}
